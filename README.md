@@ -1,2 +1,2 @@
 # discord-portal-bot
-A Discord bot for creating "portals" between channels to redirect conversations.
+A (somewhat idiosyncratic) Discord bot for creating "portals" between channels to redirect conversations.
